@@ -1,5 +1,5 @@
 # 機能
-* 一つのPageMenuのボタンとしてインターフェースを作成する
+* 機能は一つのPageMenuのボタンに集約されている
 * 次のメニューが含まれている
   	* open Roadmap
 	* mkinbox
