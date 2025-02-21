@@ -15,7 +15,7 @@
  	* remove `#inbox`, `#todo`, `#doing`, `#done`, `#close` from page
   * insert new state tag to head of page
 
-# 事前準備
+# preparation
 1. Make sure there are no `inbox`, `todo`, `doing`, `done`, `close` pages and backlinks
 	* If it already exists, delete the page and unlink the inbound link.
 2. make roadmap page
