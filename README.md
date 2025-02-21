@@ -21,5 +21,5 @@
 2. make roadmap page
 	1. name is `Roadmap`
 	2. link to `#inbox`, `#todo`, `#doing`, `#done`, `#close`
-	3.　append `script.js` in repository to codeblock `script.js` of my page using copy-and-paste
+	3. append `script.js` in repository to codeblock `script.js` of my page using copy-and-paste
 3. enables UserScript from user settings
