@@ -25,3 +25,5 @@
 2. ロードマップページを作る
 	1. `Roadmap`という名前にする
 	2. `#inbox`, `#todo`, `#doing`, `#done`, `#close` にリンクすること
+3.　自分のページの`script.js`という名前のコードブロックにリポジトリの`script.js`をコピペで追記する
+4. 設定画面からUserScriptを有効化する
